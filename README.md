@@ -17,5 +17,5 @@ Soy un desarrollador web. Actualmente estoy el primer año del Ciclo Formativo d
 
 ## GIFs y Emojis
 
-## E
+## Estadisticas
 ![Estadisticas](http://github-readme-stats.vercel.app/api?username=cche429&count_private=true&theme=radical)
