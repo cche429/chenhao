@@ -19,6 +19,6 @@ Soy un desarrollador web. Actualmente estoy el primer año del Ciclo Formativo d
 ![Gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXF1a3E4empsdWRtb3F3YTU0eW92YnVqcDR0ZHZiZWtkMm02Z2lrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif)
 
 ## Estadisticas
-![Estadisticas](http://github-readme-stats.vercel.app/api?username=cche429&count_private=true&theme=radical)
+![Estadisticas](http://github-readme-stats.vercel.app/api?username=cche429&countprivate=true&theme=radical)
 
 ## Tablas
